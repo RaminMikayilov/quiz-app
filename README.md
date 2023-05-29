@@ -2,6 +2,8 @@
 
 This is a JavaScript quiz application that allows users to test their knowledge on a variety of topics.
 
+![screenshot](./images/screenshot.png)
+
 ## Features
 
 - Multiple-choice questions
